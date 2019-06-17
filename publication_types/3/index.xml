@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Marco Francischello</title>
+    <link>https://marcofrancis.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on Marco Francischello</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://marcofrancis.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Risk-neutral valuation under differential funding costs, defaults and collateralization</title>
+      <link>https://marcofrancis.github.io/publication/brigo-2018-risk/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcofrancis.github.io/publication/brigo-2018-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An indifference approach to the cost of capital constraints: KVA and beyond</title>
+      <link>https://marcofrancis.github.io/publication/brigo-2017-indifference/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcofrancis.github.io/publication/brigo-2017-indifference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
